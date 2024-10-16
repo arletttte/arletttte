@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating data sets and games
 - 📫 How to reach me DM
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak different languages. No 4real, I speak Spanish,English and some Italian.
+- ⚡ Fun fact: I speak different languages. I speak Spanish,English and some Italian.
 
 <!---
 arletttte/arletttte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
